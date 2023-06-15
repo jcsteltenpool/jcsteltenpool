@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcsteltenpool
-- 👀 I’m interested in music, coding and raising my 3 boys
-- 🌱 I’m currently learning to code html, css and js
+- 👀 I’m interested in coding and in music
+- 🌱 I’m currently learning Redux and NextJS
 - 💞️ I’m looking to collaborate on developing websites and solving coding challenges 
 - 📫 You can reach me here on GitHub.
 
